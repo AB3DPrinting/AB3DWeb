@@ -1,0 +1,68 @@
+
+.heading_1_class { 
+    display: inline;  
+    color: transparent;
+    background-repeat: repeat-x;
+    font-size: 20px;
+    text-align: center;
+    background: url(../images/borderdotts2.jpg);
+    
+    
+    
+    
+}
+.h2_class {
+  text-align: center;
+  font-size: 40px;
+}
+
+.para_1_class span {
+    color: black;
+    text-align: center;
+    background-color: cornflowerblue;
+    background-size: contain;
+    width: 650px;
+    align-content: center;
+    
+    
+    
+    
+}
+
+.para_body_class {
+    
+    background-color: white;
+    
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    
+    
+    
+}
+/** random classes above, experimentation /*/
+
+/** external css, will apply to all unless specified like with classes above /*/
+
+body {
+  background-color: lightblue;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 40px;
+  text-align: center;
+  
+}
+
+.ul_class {
+  color: black;
+  text-align: center;
+  font-size: 25px;
+}
