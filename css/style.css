@@ -18,7 +18,7 @@ body  {
     background-attachment: fixed;
     zoom: normal;
     object-fit: scale-down;
-    width: 25%;
+    width: 100%;
     background-size: cover;
     
   }
@@ -131,7 +131,7 @@ body  {
     padding-right: 30px;
     padding-bottom: 50px;
     padding-left: 30px;
-  margin-left: 120%;
+  
   
   border-radius: 12px;
   
