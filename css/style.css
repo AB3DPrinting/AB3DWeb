@@ -108,14 +108,14 @@ body  {
 @media (max-width: 480px) {    
   .h3_class{
    text-align: center;
-   margin-left: 23%;
+   margin-left: 25%;
   }    
       
   }
 
 @media (max-width: 480px) {
   .aussie{
-    margin-left: 23%;
+    margin-left: 25%;
   }
 }
 
@@ -226,7 +226,7 @@ h1 {
   letter-spacing: 3px;
   color: black;
   text-shadow: 3px 2px grey;
-  margin-left: 20%;
+  margin-left: 17%;
   
 }
 }
