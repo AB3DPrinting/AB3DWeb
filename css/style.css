@@ -105,10 +105,25 @@ body  {
 }    
     
 }
+
+@media (max-width: 480px) {
+  .aussie{
+    margin-left: 12.5%;
+  }
+}
+
+@media (max-width: 2560px) {
+  .aussie{
+    text-align: center;
+    margin-left: -1.5%;
+  }
+}
+
+
 @media (max-width: 480px) {    
   .h3_class{
    text-align: center;
-   margin-left: 12.5%;
+   margin-left: 15%;
   }    
       
   }
