@@ -34,7 +34,7 @@ body  {
   max-width: 100%;
   background-color: white;
   background-blend-mode: soft-light;
-  margin-left: 0%;
+  margin-left: 20%;
   color: black;
   text-align: center;
   border-radius: 8px;
@@ -53,7 +53,8 @@ body  {
       max-width: 100%;
       background-color: white;
       background-blend-mode: soft-light;
-      
+      margin-left: 0%;
+      user-zoom: fixed;
       color: black;
       text-align: center;
       border-radius: 8px;
