@@ -292,6 +292,9 @@ h1 {
   text-shadow: 3px 2px grey;
   
 }
+a{
+  text-decoration: none;
+}
 @media screen and (max-width: 480px) {
   .p_block, .header, .footer, .heading_1_class, .h2_class, .para_1_class, .para_body_class, .p_class, .ul_class, .smol_class {
     width: 100%;
