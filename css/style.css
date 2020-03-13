@@ -19,6 +19,7 @@ body  {
     background-attachment: fixed;
     object-fit: scale-down;
     background-size: cover;
+    align-items: center;
     width: 100%;
     
     
