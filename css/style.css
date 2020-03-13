@@ -47,18 +47,21 @@ body  {
 
   @media (max-width: 480px) {
     .header {
+      background-color: white;
+      background-blend-mode: soft-light;
       max-width: 100%;
       position: fixed;
       top: 0;
-      margin-left: -3%;
-      padding-bottom: 8px;
+      margin-left: -4%;
+      color: black;
       border-radius: 8px;
       padding-bottom: 18px;
+      resize: none;
       
       
-      max-height: 55px;
       
-
+      
+      
       background-color: white;
       
       
@@ -167,7 +170,7 @@ body  {
     padding-bottom: 50px;
     padding-left: 30px;
 
-    border-radius: 12px;
+    
     overflow: hidden;
 } 
 
@@ -270,7 +273,7 @@ h1 {
   font-size: 15px;
   list-style: none;
   align-content: center;
-  margin-left: -15%;
+  margin-left: -13.5%;
   
 }
 }
