@@ -92,7 +92,7 @@ body  {
    color: white;
    text-align: center;
    margin-top: 100px;
-   margin-left: 10%;
+   margin-left: 8%;
    
   }
 }
@@ -126,7 +126,8 @@ body  {
 @media (max-width: 480px) {
   .aussie{
     text-align: center;
-    margin-left: 35%;
+    
+    align-content: center;
   }
 }
 
@@ -200,9 +201,9 @@ body  {
   border-radius: 8px;
   
   
+  align-content: center;
   
-  
-margin-left: 3%;
+margin-left: 1%;
 margin-right: 3%;
   }
 }
@@ -239,7 +240,8 @@ h1 {
   letter-spacing: 3px;
   color: black;
   text-shadow: 3px 2px grey;
-  margin-left: 20%;
+  margin-left: 40%;
+  align-content: center;
   
   
   }
@@ -278,7 +280,7 @@ h1 {
   font-size: 15px;
   list-style: none;
   align-content: center;
-  margin-left: 1.5%;
+  margin-left: 1%;
   
 }
 }
