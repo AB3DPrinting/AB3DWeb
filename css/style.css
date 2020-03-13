@@ -63,7 +63,7 @@ body  {
       
       
       background-color: white;
-      
+      margin-left: 2%;
       
     }
       }
@@ -92,7 +92,7 @@ body  {
    color: white;
    text-align: center;
    margin-top: 100px;
-   margin-left: 4%;
+   margin-left: 8%;
    
   }
 }
@@ -117,7 +117,7 @@ body  {
 @media (max-width: 480px) {    
   .h3_class{
    text-align: center;
-   margin-left: 5%;
+   margin-left: 10%;
    
   }    
       
@@ -126,7 +126,7 @@ body  {
 @media (max-width: 480px) {
   .aussie{
     text-align: center;
-    margin-left: 12.5%;
+    margin-left: 20%;
   }
 }
 
@@ -151,7 +151,7 @@ body  {
     text-align: center;
     font-size: 40px;
     margin-top: 100px;
-    margin-left: 5.5%;
+    margin-left: 7%;
     
   }
 }
@@ -202,7 +202,7 @@ body  {
   
   
   
-margin-left: 6%;
+margin-left: 3%;
   }
 }
 
@@ -238,7 +238,7 @@ h1 {
   letter-spacing: 3px;
   color: black;
   text-shadow: 3px 2px grey;
-  margin-left: 8%;
+  margin-left: 15%;
   
   
   }
@@ -277,7 +277,7 @@ h1 {
   font-size: 15px;
   list-style: none;
   align-content: center;
-  
+  margin-left: 3%;
   
 }
 }
