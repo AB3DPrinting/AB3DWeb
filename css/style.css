@@ -126,7 +126,7 @@ body  {
 @media (max-width: 480px) {
   .aussie{
     text-align: center;
-    margin-left: 40% !important;
+    margin-left: 20% !important;
     position: relative;
   }
 }
@@ -242,6 +242,7 @@ h1 {
   text-shadow: 3px 2px grey;
   margin-left: 50%;
   align-content: center;
+  position: relative;
   
   
   }
@@ -280,7 +281,8 @@ h1 {
   font-size: 15px;
   list-style: none;
   align-content: center;
-  margin-left: 1%;
+  margin-left: 3%;
+  position: relative;
   
 }
 }
