@@ -52,7 +52,7 @@ body  {
       max-width: 100%;
       position: fixed;
       top: 0;
-      margin-left: -4%;
+      margin-left: -3%;
       color: black;
       border-radius: 8px;
       padding-bottom: 18px;
@@ -118,7 +118,7 @@ body  {
 @media (max-width: 480px) {    
   .h3_class{
    text-align: center;
-   margin-left: 13%;
+   margin-left: 12%;
    
   }    
       
@@ -127,7 +127,7 @@ body  {
 @media (max-width: 480px) {
   .aussie{
     text-align: center;
-    margin-left: 15% !important;
+    margin-left: 12.5% !important;
     position: relative;
     
   }
