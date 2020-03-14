@@ -306,6 +306,19 @@ h1 {
   
 }
 
+@media (max-width: 480px ){
+  .p_block {
+  
+ 
+    text-align: center;
+    letter-spacing: 3px;
+    color: blue;
+    text-shadow: 3px 2px grey;
+    
+  }
+
+}
+
 a{
   text-decoration: none;
 }
