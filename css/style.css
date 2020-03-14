@@ -208,6 +208,7 @@ body  {
   
 margin-left: 1%;
 margin-right: 3%;
+position: relative;
   }
 }
 
@@ -279,7 +280,7 @@ h1 {
 }
 @media (max-width: 480px){
 .ul_class {
-  color: black;
+  color: blue;
   text-align: center;
   font-size: 15px;
   list-style: none;
