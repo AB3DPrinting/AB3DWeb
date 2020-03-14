@@ -55,6 +55,7 @@ body  {
       margin-left: -3%;
       color: black;
       border-radius: 8px;
+      padding-top: 5px;
       padding-bottom: 18px;
       resize: none;
       z-index: 100;
@@ -93,7 +94,7 @@ body  {
    color: white;
    text-align: center;
    margin-top: 100px;
-   margin-left: 8% !important;
+   margin-left: 9% !important;
    
   }
 }
@@ -205,9 +206,8 @@ body  {
   
   
   align-content: center;
-  
-margin-left: 1%;
-margin-right: 3%;
+  position: relative;
+
   }
 }
 
