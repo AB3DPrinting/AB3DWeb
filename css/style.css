@@ -25,6 +25,9 @@ body  {
     
   }
   }
+  div{
+    align-items: center;
+  }
 
   @media (max-width: 2560px) {
     .header {
@@ -126,7 +129,7 @@ body  {
 @media (max-width: 480px) {
   .aussie{
     text-align: center;
-    
+    margin-left: 20%;
     align-content: center;
   }
 }
@@ -240,7 +243,7 @@ h1 {
   letter-spacing: 3px;
   color: black;
   text-shadow: 3px 2px grey;
-  margin-left: 40%;
+  margin-left: 50%;
   align-content: center;
   
   
