@@ -55,7 +55,6 @@ body  {
       margin-left: -3%;
       color: black;
       border-radius: 8px;
-      padding-top: 5px;
       padding-bottom: 18px;
       resize: none;
       z-index: 100;
@@ -94,7 +93,7 @@ body  {
    color: white;
    text-align: center;
    margin-top: 100px;
-   margin-left: 10% !important;
+   margin-left: 8% !important;
    
   }
 }
@@ -119,7 +118,7 @@ body  {
 @media (max-width: 480px) {    
   .h3_class{
    text-align: center;
-   margin-left: 12%;
+   margin-left: 13%;
    
   }    
       
@@ -128,7 +127,7 @@ body  {
 @media (max-width: 480px) {
   .aussie{
     text-align: center;
-    margin-left: 12.5% !important;
+    margin-left: 15% !important;
     position: relative;
     
   }
@@ -207,7 +206,8 @@ body  {
   
   align-content: center;
   
-
+margin-left: 1%;
+margin-right: 3%;
   }
 }
 
