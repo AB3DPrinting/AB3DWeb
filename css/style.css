@@ -109,6 +109,7 @@ body  {
    color: white;
    text-align: center;
    margin-top: 100px;
+   margin-left: -2%;
    
    
   }
@@ -175,6 +176,7 @@ body  {
     
   }
 }
+/*
 @media (max-width: 2560px){
 .para_1_class  {
   
@@ -227,7 +229,7 @@ margin-right: 1% !important;
 position: relative;
   }
 }
-
+*/
 .para_body_class {
     
     background-color: white;
