@@ -115,6 +115,36 @@ body  {
    
   }
 }
+@media (max-width: 480px) {
+  .footer_cont {
+   position: relative;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: transparent;
+   color: white;
+   text-align: center;
+   margin-top: 100px;
+   margin-left: -2%;
+   
+   
+  }
+}
+@media (max-width: 2560px) {
+  .footer_cont {
+   position: relative;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: transparent;
+   color: white;
+   text-align: center;
+   margin-top: 200px;
+   margin-left: -.5%;
+   
+   
+  }
+}
 
 .heading_1_class { 
    
