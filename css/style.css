@@ -37,6 +37,8 @@
   box-shadow: 0 0 50px var(--main-header-shadow-color);   
   text-transform: uppercase;
   transition: var(--main-header-transition);
+  
+
 }
   .main-header .container {
       display: flex;
@@ -44,6 +46,8 @@
       align-items: center;
       width: 100%;
       max-width: 1140px;
+      
+      
   }
       .main-header-logo {
         width: auto ;
@@ -184,6 +188,7 @@
   animation-duration: 1.6s;
   animation-iteration-count: infinite;
   animation-timing-function: linear;
+  
 }
 
 @keyframes jssorl-009-spin {
@@ -394,3 +399,138 @@ body {
 
 
 
+  @import url('https://fonts.googleapis.com/css?family=Playfair+Display|Source+Sans+Pro:200,400');
+
+  
+         
+   
+   
+   
+   
+  
+  
+
+  .title_class{
+    font-size: 60px;
+    margin-top: -200px;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Playfair Display', serif;
+  }
+   
+  p {
+    font-family: 'Source Sans Pro', sans-serif;
+  }
+  
+  /* Generic styles */
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  .link_style {
+    background-color: #151515;
+    text-decoration: none;
+    color: white;
+    border-radius: .25rem;
+    text-align: center;
+    display: inline-block;
+    transition: all .3s;
+  }
+  
+  a:hover {
+    opacity: .6;
+  }
+  
+  /* Styles for the top banner image (under header)*/
+  .hero {
+    
+    background: url('https://live.staticflickr.com/3762/10910007795_aec8d464f7_b.jpg') center;
+    background-size: cover;
+    padding: 4rem 2rem;
+    /* grid styles */
+    padding-top: 20rem;
+    display: grid;
+    box-shadow: -1px 15px 30px -12px black;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    align-items: center;
+  }
+  
+  .hero > * {
+    color: white;
+  }
+  
+  .hero > h1 {
+    font-size: 4rem;
+    padding-bottom: 1rem;
+  }
+  
+  .hero > article > p {
+    font-size: 1.5rem;
+    font-weight: 200;
+  }
+  
+  .hero > article > a {
+    padding: 1rem;
+    margin-top: .75rem;
+  }
+  
+  /* card styles */
+  
+  
+  .cards {
+    padding-top: 1rem;
+    padding-left: 0.8rem;
+    padding-right: 1rem;
+  }
+  
+  .cards > ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-gap: 1rem;
+    list-style: none;
+  }
+  
+  .cards > ul > li {
+    border: 1px solid #E2E2E2;
+    border-radius: .5rem;
+    box-shadow: -1px 15px 30px -12px black;
+  }
+  
+  .cards > ul > li > figure {
+    max-height: 220px;
+    overflow: hidden;
+    border-top-left-radius: .5rem;
+    border-top-right-radius: .5rem;
+    position: relative;
+  }
+  
+  .cards > ul > li > figure > img {
+    width: 100%;
+  }
+  
+  .cards > ul > li > figure > figcaption {
+    position: absolute;
+    bottom: 0;
+    background-color: rgba(0,0,0,.7);
+    width: 100%;
+  }
+  
+  .cards > ul > li > figure > figcaption > h3 {
+    color: white;
+    padding: .75rem;
+    font-size: 1.25rem;
+  }
+  
+  .cards > ul > li > p {
+    font-size: 1rem;
+    line-height: 1.5;
+    padding: 1rem .75rem;
+    color: #666666;
+  }
+  
+  .cards > ul > li > a {
+    padding: .5rem 1rem;
+    margin: .5rem;
+  }
+  
